@@ -1,7 +1,7 @@
 # term-markdown
-![markdown renderer preview](https://raw.githubusercontent.com/cbbuntz/term-markdown/master/data/md_parse.png)
-
 A collection of experimental ruby scripts. It makes markdown look good even in a terminal.
+
+![markdown renderer preview](https://raw.githubusercontent.com/cbbuntz/term-markdown/master/data/md_parse.png)
 
 * All standard emphasis styles are correctly displayed.
 
